@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Development --> (JavaScript and React)
 - 📫 How to reach me: <br>
                      Telegram: https://t.me/davlat_shermatov <br>
-                     Instagram: http://instagram.com/_davlatbek_sh <br>
+                     Instagram: http://instagram.com/world__gone_mad <br>
                      Linkedin: https://www.linkedin.com/in/davlatjon-shermatov-648210211
 <!---
 davlatshermatov/davlatshermatov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
