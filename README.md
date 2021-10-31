@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davlatshermatov
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Frontend Development --> (JavaScript and React)
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently mainly focusing on Front End Development
 - 📫 How to reach me: <br>
                      Telegram: https://t.me/davlat_shermatov <br>
                      Instagram: http://instagram.com/world__gone_mad <br>
