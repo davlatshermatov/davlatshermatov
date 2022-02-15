@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/davlatshermatov/davlatshermatov/blob/main/devcard.svg" width="400" alt="Davlat Shermatov's Dev Card"/></a>
+<a href="https://app.daily.dev/davlatshermatov"><img src="https://github.com/davlatshermatov/davlatshermatov/blob/main/devcard.svg" width="400" alt="Davlat Shermatov's Dev Card"/></a>
 
 - 👋 Hi, I’m @davlatshermatov
 - 👀 I’m interested in Web Development
